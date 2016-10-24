@@ -1,0 +1,7 @@
+site_name: Exchange Integration Guide
+theme: readthedocs
+pages:
+- 'Home': 'index.md'
+- 'Guide':
+  - 'Hot Wallet': 'hot.md'
+  - 'Cold Storage': 'cold.md'
